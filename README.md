@@ -30,9 +30,9 @@
 Welcome to the ultimate curated directory of **financial services data analytics platforms**, **open-source quantitative finance libraries**, and **market data pipelines**. Whether you are looking for enterprise-grade commercial solutions (such as *Bloomberg Enterprise Data*, *FactSet*, and *S&P Capital IQ*), or self-hostable open-source alternatives (like *OpenBB*, *QuantLib*, and *ccxt*), this list covers category leaders, quantitative analytics, and privacy-respecting financial data infrastructure.
 
 **Key Market Context:** 💡
-- **OpenBB** is the **leading open-source investment research platform**, with **30K+ GitHub stars** and **Bloomberg Terminal-class functionality** at zero cost.
-- **QuantLib** is the **most comprehensive open-source quantitative finance library**, with **5K+ GitHub stars** and **derivatives pricing, risk management, and fixed income analytics**.
-- **ccxt** is the **leading crypto trading & market data integration framework** supporting 100+ exchanges with **33K+ GitHub stars**.
+- **OpenBB** is the **leading open-source investment research platform**, with **30K+ GitHub_Stars** and **Bloomberg Terminal-class functionality** at zero cost.
+- **QuantLib** is the **most comprehensive open-source quantitative finance library**, with **5K+ GitHub_Stars** and **derivatives pricing, risk management, and fixed income analytics**.
+- **ccxt** is the **leading crypto trading & market data integration framework** supporting 100+ exchanges with **33K+ GitHub_Stars**.
 
 ---
 
@@ -72,46 +72,46 @@ The global financial data and analytics market size is estimated at **~$45 Billi
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[ccxt](https://github.com/ccxt/ccxt)** [![Stars](https://img.shields.io/github/stars/ccxt/ccxt?style=social&color=white)](https://github.com/ccxt/ccxt/stargazers)  
-  **Crypto currency market data & trading library**, MIT licensed. **33K+ GitHub stars** — **connects to 100+ crypto exchanges** . **JavaScript, Python, and PHP support for market data stream & algorithmic trading** . 🪙
+  **Crypto currency market data & trading library**, MIT licensed. **33K+ GitHub_Stars** — **connects to 100+ crypto exchanges** . **JavaScript, Python, and PHP support for market data stream & algorithmic trading** . 🪙
 
 - **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** [![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social&color=white)](https://github.com/OpenBB-finance/OpenBB/stargazers)  
-  **Open-source investment research platform**, AGPL-3.0 licensed. **30K+ GitHub stars** — **the Bloomberg Terminal alternative** for retail investors and analysts . **Stocks, options, crypto, forex, and macro data** . **AI-powered analysis with OpenBB Copilot** . **The most comprehensive open-source financial data platform** . 📊
+  **Open-source investment research platform**, AGPL-3.0 licensed. **30K+ GitHub_Stars** — **the Bloomberg Terminal alternative** for retail investors and analysts . **Stocks, options, crypto, forex, and macro data** . **AI-powered analysis with OpenBB Copilot** . **The most comprehensive open-source financial data platform** . 📊
 
 - **[yfinance](https://github.com/ranaroussi/yfinance)** [![Stars](https://img.shields.io/github/stars/ranaroussi/yfinance?style=social&color=white)](https://github.com/ranaroussi/yfinance/stargazers)  
-  **Yahoo Finance market data downloader**, Apache-2.0 licensed. **16K+ GitHub stars** — **the standard for downloading market data in Python** . **Stocks, ETFs, mutual funds, and crypto** . **The most accessible open-source market data library** . 📥
+  **Yahoo Finance market data downloader**, Apache-2.0 licensed. **16K+ GitHub_Stars** — **the standard for downloading market data in Python** . **Stocks, ETFs, mutual funds, and crypto** . **The most accessible open-source market data library** . 📥
 
 - **[Backtrader](https://github.com/mementum/backtrader)** [![Stars](https://img.shields.io/github/stars/mementum/backtrader?style=social&color=white)](https://github.com/mementum/backtrader/stargazers)  
-  **Python backtesting and trading framework**, GPL-3.0 licensed. **15K+ GitHub stars** — **supports stocks, futures, forex, and crypto** . **Live trading integration with Interactive Brokers, Oanda, and more** . **The most feature-complete open-source backtesting framework** . ⚡
+  **Python backtesting and trading framework**, GPL-3.0 licensed. **15K+ GitHub_Stars** — **supports stocks, futures, forex, and crypto** . **Live trading integration with Interactive Brokers, Oanda, and more** . **The most feature-complete open-source backtesting framework** . ⚡
 
 - **[Freqtrade](https://github.com/freqtrade/freqtrade)** [![Stars](https://img.shields.io/github/stars/freqtrade/freqtrade?style=social&color=white)](https://github.com/freqtrade/freqtrade/stargazers)  
-  **Free and open-source crypto trading bot**, GPL-3.0 licensed. **15K+ GitHub stars** — **backtesting, strategy optimization, and live algorithmic trading** . **Telegram bot control and custom strategy plotting** . 🤖
+  **Free and open-source crypto trading bot**, GPL-3.0 licensed. **15K+ GitHub_Stars** — **backtesting, strategy optimization, and live algorithmic trading** . **Telegram bot control and custom strategy plotting** . 🤖
 
 - **[TA-Lib](https://github.com/TA-Lib/ta-lib)** [![Stars](https://img.shields.io/github/stars/TA-Lib/ta-lib?style=social&color=white)](https://github.com/TA-Lib/ta-lib/stargazers)  
-  **Technical analysis library**, BSD-3-Clause licensed. **10K+ GitHub stars** — **the original technical analysis library** with **200+ indicators for C, C++, Python, and Java** . **The standard for algorithmic trading indicators** . 🏛️
+  **Technical analysis library**, BSD-3-Clause licensed. **10K+ GitHub_Stars** — **the original technical analysis library** with **200+ indicators for C, C++, Python, and Java** . **The standard for algorithmic trading indicators** . 🏛️
 
 - **[Lean](https://github.com/QuantConnect/Lean)** [![Stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=social&color=white)](https://github.com/QuantConnect/Lean/stargazers)  
-  **QuantConnect Lean Algorithmic Trading Engine**, Apache-2.0 licensed. **8K+ GitHub stars** — **C# & Python event-driven algorithmic backtesting and live execution engine** for equity, FX, futures, options, and crypto . ⚙️
+  **QuantConnect Lean Algorithmic Trading Engine**, Apache-2.0 licensed. **8K+ GitHub_Stars** — **C# & Python event-driven algorithmic backtesting and live execution engine** for equity, FX, futures, options, and crypto . ⚙️
 
 - **[pandas-ta](https://github.com/twopirllc/pandas-ta)** [![Stars](https://img.shields.io/github/stars/twopirllc/pandas-ta?style=social&color=white)](https://github.com/twopirllc/pandas-ta/stargazers)  
-  **Technical analysis library for Python**, MIT licensed. **5K+ GitHub stars** — **130+ indicators and 60+ candlestick patterns** . **Pandas-based for efficient computation** . **The most complete open-source technical analysis library** . 📉
+  **Technical analysis library for Python**, MIT licensed. **5K+ GitHub_Stars** — **130+ indicators and 60+ candlestick patterns** . **Pandas-based for efficient computation** . **The most complete open-source technical analysis library** . 📉
 
 - **[QuantLib](https://github.com/lballabio/QuantLib)** [![Stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers)  
-  **The most comprehensive open-source quantitative finance library**, modified BSD license. **5K+ GitHub stars** — **derivatives pricing, risk management, and fixed income analytics** . **C++ core with Python, R, Java, and C# bindings** . **The standard for quantitative finance** . 🧮
+  **The most comprehensive open-source quantitative finance library**, modified BSD license. **5K+ GitHub_Stars** — **derivatives pricing, risk management, and fixed income analytics** . **C++ core with Python, R, Java, and C# bindings** . **The standard for quantitative finance** . 🧮
 
 - **[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)** [![Stars](https://img.shields.io/github/stars/robertmartin8/PyPortfolioOpt?style=social&color=white)](https://github.com/robertmartin8/PyPortfolioOpt/stargazers)  
-  **Financial portfolio optimization in Python**, MIT licensed. **4K+ GitHub stars** — **mean-variance optimization, Black-Litterman, and hierarchical risk parity** . **The most comprehensive open-source portfolio optimization library** . 🎯
+  **Financial portfolio optimization in Python**, MIT licensed. **4K+ GitHub_Stars** — **mean-variance optimization, Black-Litterman, and hierarchical risk parity** . **The most comprehensive open-source portfolio optimization library** . 🎯
 
 - **[Pyfolio](https://github.com/quantopian/pyfolio)** [![Stars](https://img.shields.io/github/stars/quantopian/pyfolio?style=social&color=white)](https://github.com/quantopian/pyfolio/stargazers)  
-  **Portfolio and risk analytics**, Apache-2.0 licensed. **4K+ GitHub stars** — **the standard for portfolio performance analysis** . **Returns, drawdowns, and risk metrics** . **The foundation for portfolio analytics** . 📈
+  **Portfolio and risk analytics**, Apache-2.0 licensed. **4K+ GitHub_Stars** — **the standard for portfolio performance analysis** . **Returns, drawdowns, and risk metrics** . **The foundation for portfolio analytics** . 📈
 
 - **[Alphalens](https://github.com/quantopian/alphalens)** [![Stars](https://img.shields.io/github/stars/quantopian/alphalens?style=social&color=white)](https://github.com/quantopian/alphalens/stargazers)  
-  **Performance analysis of predictive stock factors**, Apache-2.0 licensed. **3K+ GitHub stars** — **the standard for factor analysis** . **Used by quant researchers for alpha factor validation** . 🔬
+  **Performance analysis of predictive stock factors**, Apache-2.0 licensed. **3K+ GitHub_Stars** — **the standard for factor analysis** . **Used by quant researchers for alpha factor validation** . 🔬
 
 - **[Zipline](https://github.com/stefan-jansen/zipline-reloaded)** [![Stars](https://img.shields.io/github/stars/stefan-jansen/zipline-reloaded?style=social&color=white)](https://github.com/stefan-jansen/zipline-reloaded/stargazers)  
-  **Pythonic algorithmic trading library**, Apache-2.0 licensed. **3K+ GitHub stars** — **the most widely used open-source backtester** — originally developed by Quantopian, now maintained by **QuantRocket** . **Event-driven backtesting with realistic transaction costs** . **The standard for algorithmic trading research** . 📈
+  **Pythonic algorithmic trading library**, Apache-2.0 licensed. **3K+ GitHub_Stars** — **the most widely used open-source backtester** — originally developed by Quantopian, now maintained by **QuantRocket** . **Event-driven backtesting with realistic transaction costs** . **The standard for algorithmic trading research** . 📈
 
 - **[Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)** [![Stars](https://img.shields.io/github/stars/dcajasn/Riskfolio-Lib?style=social&color=white)](https://github.com/dcajasn/Riskfolio-Lib/stargazers)  
-  **Portfolio optimization and quantitative strategic asset allocation**, BSD-3-Clause licensed. **2K+ GitHub stars** — **60+ risk measures and 20+ portfolio optimization models** . **The most advanced open-source portfolio optimization library** . 📊
+  **Portfolio optimization and quantitative strategic asset allocation**, BSD-3-Clause licensed. **2K+ GitHub_Stars** — **60+ risk measures and 20+ portfolio optimization models** . **The most advanced open-source portfolio optimization library** . 📊
 
 - **[finnhub-python](https://github.com/Finnhub-Stock-API/finnhub-python)** [![Stars](https://img.shields.io/github/stars/Finnhub-Stock-API/finnhub-python?style=social&color=white)](https://github.com/Finnhub-Stock-API/finnhub-python/stargazers)  
   **Finnhub API client**, Apache-2.0 licensed. **Real-time market data, fundamentals, and alternative data** . **Free tier with 60 API calls/minute** . **The most accessible commercial financial data API** . 🔌
@@ -156,7 +156,7 @@ Thank you for supporting open-source financial data & quantitative analytics sof
 ## ⚠️ Disclaimer ⚠️ ℹ️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-- **Bloomberg Terminal costs ~$30,000/year per user** — **FactSet starts at ~$12,000/year** — **S&P Capital IQ Pro starts at ~$13,000/year** . **OpenBB provides Bloomberg Terminal-class functionality at zero cost** with **30K+ GitHub stars** .
+- **Bloomberg Terminal costs ~$30,000/year per user** — **FactSet starts at ~$12,000/year** — **S&P Capital IQ Pro starts at ~$13,000/year** . **OpenBB provides Bloomberg Terminal-class functionality at zero cost** with **30K+ GitHub_Stars** .
 - **QuantLib is the most comprehensive open-source quantitative finance library** — **derivatives pricing, risk management, and fixed income analytics** . **Zipline is the most widely used open-source backtester** .
 - **Open-source financial analytics tools are not turnkey** — they require **data source configuration, model validation, and ongoing maintenance** . **yfinance relies on Yahoo Finance data** which may have gaps . **Always validate model accuracy and backtest results with a proof-of-concept** before production deployment . 💹
 
